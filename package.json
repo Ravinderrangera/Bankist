@@ -1,0 +1,14 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "It's a bank website in which you can store or loan money and transfer your money from your account to another account very easily.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "ravider",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
