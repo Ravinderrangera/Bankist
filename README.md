@@ -1,2 +1,2 @@
 # Bankist
-It's a bank website in which you can store or loan money and transfer your money from your account to another account very easily.
+It's a bank markting website largely built with the help of DOM manipulation.
